@@ -1,3 +1,13 @@
+/* 
+various types of selectors:
+	tag
+	class
+	id
+basic attributes: 
+	
+*/
+
+/*
 html
 {
 	height: 100%;
@@ -7,6 +17,9 @@ html
 	overflow: hidden;
 	font-family: 'Montserrat';
 }
+*/
+
+/*
 body
 {
 	height: 100%;
@@ -14,6 +27,9 @@ body
 	margin: 0;
 	padding: 0;
 }
+*/
+
+/*
 .center
 {
 	width: 80%;
@@ -47,6 +63,7 @@ button:hover
 	box-shadow: 2px 2px 5px #cdcdcd;
 	font-size: 16px;
 }
+*/
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     font-family: 'Montserrat'; /* Firefox */
 }
@@ -58,6 +75,7 @@ button:hover
 ::-ms-input-placeholder { /* Microsoft Edge */
     font-family: 'Montserrat';
 }
+/*
 input
 {
 	width: 48%;
@@ -163,3 +181,4 @@ label
 	}
 	
 }
+*/

@@ -11,6 +11,8 @@ function setTextNode(node, text) {
 
 // ================================= MAIN FUNCTIONS ========================================
 
+
+
 // Selecting nodes(divs) that will be changed often =>
 var result = document.getElementById("result");
 var list = document.getElementById("list");
