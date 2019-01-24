@@ -1,8 +1,8 @@
 {
   "name": "WhatsTheWord",
   "short_name": "WTW",
-  "theme_color": "#6f1e51",
-  "background_color": "#6f1e51",
+  "theme_color": "#2eab5c",
+  "background_color": "#2eab5c",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
