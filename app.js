@@ -45,10 +45,10 @@ async function getData() {
         );
     } else {
         // Build API URL =>
-        var url =
-            "https://dictionaryapi.com/api/v3/references/learners/json/" +
-            word +
-            "?key=6b5f2059-92e7-4761-b787-d7ff3514ae73";
+        var baseUrl = "https://dictionaryapi.com/api/v3/references/learners/json/";
+        var apikey = "6b5f2059-92e7-4761-b787-d7ff3514ae73";
+        var query = word;
+        var url = baseUrl + query + "?key=" + apikey;
 
         // Fetch data from the built URL =>
         const def = await fetch(url);

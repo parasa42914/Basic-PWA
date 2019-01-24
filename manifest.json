@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "/WhatsTheWord/",
+  "start_url": "/Basic-PWA/",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
